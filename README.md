@@ -4,7 +4,7 @@
 Welcome to my demo repository. 🌐
 
 ### Background
-background
+Created for the purpose of demonstrating GitHub
 
 ### Developer setup
 Setup steps
