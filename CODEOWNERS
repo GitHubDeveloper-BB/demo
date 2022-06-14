@@ -1,0 +1,6 @@
+# Javascript team
+*.js    @GitHubDeveloper-BB/javascript-engineers
+
+# Documentation team
+*.md    @GitHubDeveloper-BB/documentation-team
+docs/   @GitHubDeveloper-BB/documentation-team
